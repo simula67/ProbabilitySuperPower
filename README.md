@@ -18,19 +18,30 @@ Choice 1
 <td>P2</td><td>C2</td>
 </tr>
 </table>
-
-Probability     Benefit
-P3		B1
-P4		B2
+<table>
+<tr>
+<td>Probability</td><td>Benefit</td>
+</tr>
+<tr>
+<td>P3</td><td>B1</td>
+</tr>
+<tr>
+<td>P4</td><td>B2</td>
+</tr>
+</table>
 
 Choice 2
-Probability     Cost
-P5              C3
-P6              C4
 
-Probability     Benefit
-P7              B3
-P8              B4
+<table>
+<td>Probability</td><td>Cost</td>
+<td>P5</td><td>C3</td>
+<td>P6</td><td>C4</td>
+</table>
+<table>
+<td>Probability</td><td>Benefit</td>
+<td>P7</td><td>B3</td>
+<td>P8</td><td>B4</td>
+</table>
 
 How will you know which choice to make ?
 
