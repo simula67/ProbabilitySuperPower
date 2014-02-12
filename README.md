@@ -33,14 +33,26 @@ Choice 1
 Choice 2
 
 <table>
+<tr>
 <td>Probability</td><td>Cost</td>
+</tr>
+<tr>
 <td>P5</td><td>C3</td>
+</tr>
+<tr>
 <td>P6</td><td>C4</td>
+</tr>
 </table>
 <table>
+<tr>
 <td>Probability</td><td>Benefit</td>
+</tr>
+<tr>
 <td>P7</td><td>B3</td>
+</tr>
+<tr>
 <td>P8</td><td>B4</td>
+</tr>
 </table>
 
 How will you know which choice to make ?
