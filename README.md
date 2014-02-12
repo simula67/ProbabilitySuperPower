@@ -6,9 +6,18 @@ Just the other day, I had an arguement with a friend of mine about how to make d
 Imagine if there are two choices for you :
 
 Choice 1
-Probability	Cost
-P1		C1
-P2		C2
+
+<table>
+<tr>
+<td>Probability</td><td>Cost</td>
+</tr>
+<tr>
+<td>P1</td><td>C1</td>
+</tr>
+<tr>
+<td>P2</td><td>C2</td>
+</tr>
+</table>
 
 Probability     Benefit
 P3		B1
